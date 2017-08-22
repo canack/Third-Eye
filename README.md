@@ -1,7 +1,7 @@
-# Thrid-Eye
-Thrid-Eye is people finder. If target people ( actually target device ) is your nearest Thrid-Eye will alert you.
+# Third-Eye
+Third-Eye is people finder. If target people ( actually target device ) is your nearest Third-Eye will alert you.
 
-Thrid-Eye working with kismetclient.
+Third-Eye working with kismetclient.
 Please visit for more: https://github.com/PaulMcMillan/kismetclient
 
 # Dependencies
@@ -9,14 +9,14 @@ Please visit for more: https://github.com/PaulMcMillan/kismetclient
 
 Installation:
 ```sh
-$ git clone https://github.com/EnginAcikgoz/Thrid-Eye.git
-$ cd Thrid-Eye
-$ chmod +x thrid-eye.py
+$ git clone https://github.com/EnginAcikgoz/Third-Eye.git
+$ cd Third-Eye
+$ chmod +x third-eye.py
 ```
 
 Usage:
 ```sh
-$ ./thrid-eye.py -i INTERFACE
+$ ./third-eye.py -i INTERFACE
 ```
 
 
