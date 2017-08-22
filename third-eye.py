@@ -8,8 +8,8 @@ from kismetclient import handlers
 
 ##### ARGPARSE AREA BEGIN #####
 parser = argparse.ArgumentParser(
-        description='''Thrid-Eye is people finder.
-        If target people ( actually target device ) is your nearest Thrid-Eye will alert you.'''
+        description='''Third-Eye is people finder.
+        If target people ( actually target device ) is your nearest Third-Eye will alert you.'''
         )
 
 #parser.add_argument('-t', help='Target MAC address', required=True)
