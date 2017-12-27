@@ -20,6 +20,3 @@ $ ./third-eye.py -i INTERFACE
 ```
 
 
-# Donate with Bitcoin
-![alt text](http://i.imgur.com/EaRUjUN.png)
-  - 17MeoRJ6mrMU9KMBVLMjKcX6SDdAfhM7oT 
