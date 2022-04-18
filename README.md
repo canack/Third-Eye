@@ -9,7 +9,7 @@ Please visit for more: https://github.com/PaulMcMillan/kismetclient
 
 Installation:
 ```sh
-$ git clone https://github.com/EnginAcikgoz/Third-Eye.git
+$ git clone https://github.com/canack/Third-Eye.git
 $ cd Third-Eye
 $ chmod +x third-eye.py
 ```
